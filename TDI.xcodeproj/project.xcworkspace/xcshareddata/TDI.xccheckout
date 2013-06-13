@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B242C38F-0CE7-4DF1-9C96-21042CA2C52A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TDI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7094B530-74EB-44B1-A1B1-5D5D9349C478</key>
+		<string>https://github.com/pepibumur/Tratamiento-Digital-de-Imagen-en-iOS---OpenCV-y-CImg.git</string>
+		<key>870941A9-CCE2-4B0F-AD8E-FBC0BD0DA280</key>
+		<string>https://github.com/pepibumur/Tratamiento-Digital-de-Im-genes-iOS.git</string>
+		<key>A996F245-D1FA-4571-AE43-CEFA57942619</key>
+		<string>https://github.com/pepibumur/corrigeME.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TDI.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7094B530-74EB-44B1-A1B1-5D5D9349C478</key>
+		<string>../../TDI</string>
+		<key>870941A9-CCE2-4B0F-AD8E-FBC0BD0DA280</key>
+		<string>../..</string>
+		<key>A996F245-D1FA-4571-AE43-CEFA57942619</key>
+		<string>../../TDI/corrigeME</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pepibumur/Tratamiento-Digital-de-Im-genes-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>870941A9-CCE2-4B0F-AD8E-FBC0BD0DA280</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7094B530-74EB-44B1-A1B1-5D5D9349C478</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TDI</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A996F245-D1FA-4571-AE43-CEFA57942619</string>
+			<key>IDESourceControlWCCName</key>
+			<string>corrigeME</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>870941A9-CCE2-4B0F-AD8E-FBC0BD0DA280</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Proyecto</string>
+		</dict>
+	</array>
+</dict>
+</plist>
